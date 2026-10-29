@@ -1,0 +1,49 @@
+{
+  "total_records": 1000,
+  "distinct_source_repos": 989,
+  "top_repo": "syurskyi/Python_Topics",
+  "top_repo_records": 4,
+  "multi_record_repos": [
+    {
+      "repo": "akimi-yano/algorithm-practice",
+      "records": 2
+    },
+    {
+      "repo": "arthurDz/algorithm-studies",
+      "records": 2
+    },
+    {
+      "repo": "bssrdf/pyleet",
+      "records": 3
+    },
+    {
+      "repo": "chenxu0602/LeetCode",
+      "records": 2
+    },
+    {
+      "repo": "daniel-reich/turbo-robot",
+      "records": 2
+    },
+    {
+      "repo": "jakehoare/leetcode",
+      "records": 2
+    },
+    {
+      "repo": "Kawser-nerd/CLCDSA",
+      "records": 2
+    },
+    {
+      "repo": "syurskyi/Python_Topics",
+      "records": 4
+    }
+  ],
+  "max_int_score": 5,
+  "max_int_score_blob_ids": [
+    "ba4c47cae4c90f8d2f7353dcca53cbee5039049e",
+    "0b7d06e83d9a32417b0ef408ffcc340960bf268b",
+    "243fd196046b66fc1f6eedb757564b3e6afeb763",
+    "e10c73a4cbb5c9e127021a2e0b91db24bfdedb2f",
+    "3342207990ea6a39ef1233ed82c8a0ed0e971337",
+    "c54282f4037d051af1d8547347f045bc4b3e1b6e"
+  ]
+}
